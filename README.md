@@ -8,6 +8,8 @@
 
 ##內容:活動社群平台
 
+![NKFUST](未命名.png "第一科大")
+
 ### Mermaid
 ```mermaid
 gantt
